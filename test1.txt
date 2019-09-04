@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is C4C9-2A98
+
+ Directory of C:\Users\Garry Gill\Desktop\project git
+
+04-Sep-19  06:48 PM    <DIR>          .
+04-Sep-19  06:48 PM    <DIR>          ..
+04-Sep-19  06:48 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  87,708,823,552 bytes free
